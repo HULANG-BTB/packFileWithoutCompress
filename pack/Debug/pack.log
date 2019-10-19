@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\AloneH\Desktop\pack\pack\main.cpp(77,20): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\AloneH\Desktop\pack\pack\main.cpp(162,16): warning C4018: “<”: 有符号/无符号不匹配
+  pack.vcxproj -> C:\Users\AloneH\Desktop\pack\Debug\pack.exe
